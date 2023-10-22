@@ -1,0 +1,5 @@
+/* Samriddha Kharel 1001918169*/
+char *PhraseBank[] = {"Testing!123", "Die with memories, not dreams",
+                 "Love For All, Hatred For None", "Whatever you do, do it well", "What we think, we become",
+				 "Tough times never last but tough people do", "Be so good they can’t ignore you",
+				 "When words fail, music speaks", "Coding_Assignment_5_1001918169", ""};
